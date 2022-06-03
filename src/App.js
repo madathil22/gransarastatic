@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <h1>Abraham Family Vacations</h1>
-      <table>
+      <table width="100%" height="100%" >
         <tr>
           <td>
             <YoutubeEmbed embedId="wWIVUGgBlNM" />
